@@ -1,0 +1,31 @@
+{
+  "name": "domexp",
+  "version": "0.0.0",
+  "description": "a document processing utility",
+  "main": "domexp.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grrizzly/domexp.git"
+  },
+  "keywords": [
+    "html",
+    "find",
+    "replace",
+    "sed"
+  ],
+  "author": "Austin Montoya",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "26c64127781a503915411af99ee424430526f2c4",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.0",
+    "jsdom": "^0.10.3"
+  }
+}
