@@ -22,7 +22,12 @@
   "gitHead": "26c64127781a503915411af99ee424430526f2c4",
   "devDependencies": {
     "gulp": "^3.5.6",
-    "mocha": "^1.18.2"
+    "mocha": "^1.18.2",
+    "coffee-script": "^1.7.1",
+    "gulp-coffee": "^1.4.1",
+    "gulp-util": "^2.2.14",
+    "gulp-mocha": "^0.4.1",
+    "chai": "^1.9.0"
   },
   "dependencies": {
     "jquery": "^2.1.0",
